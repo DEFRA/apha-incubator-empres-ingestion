@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This repository has been archived.** It is no longer maintained and is read-only.
+> Please follow [DEFRA/apha-incubator-core](https://github.com/DEFRA/apha-incubator-core) for ongoing updates.
+
 # apha-incubator-empres-ingestion
 
 This is work-in-progress. See [To Do List](./TODO.md)
